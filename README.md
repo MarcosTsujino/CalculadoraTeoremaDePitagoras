@@ -25,14 +25,14 @@ pages.
 
 ### Layout:
 
-Styled-components
+<li>Styled-components
 
 ### App React:
 
 Instalar as dependências:
 <li>npm install
 
-Inicie a aplicação com:
+Iniciar a aplicação com:
 <li>npm start
 
 # Print da tela:
