@@ -27,9 +27,10 @@ pages.
 
 <li>Styled-components
 
-# Responsividade: 
-Tablets: (min-width: 768px) e (max-width: 1023px)
-Celulares: (max-width: 767px)
+### Responsividade: 
+<li>Tablets: (min-width: 768px) e (max-width: 1023px)
+<li>Celulares: (max-width: 767px)
+  
 ### App React:
 
 Instalar as dependências:
