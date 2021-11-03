@@ -34,5 +34,7 @@ Instalar as dependências:
 
 Inicie a aplicação com:
 <li>npm start
+  
+<img src="print-tela-calculadora.png">
 
 <h4>Desenvolvido por Marcos Tsujino</h4>
