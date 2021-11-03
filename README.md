@@ -34,7 +34,8 @@ Instalar as dependências:
 
 Inicie a aplicação com:
 <li>npm start
-  
-<img src="print-tela-calculadora.png">
+
+# Print da tela:
+<img src="https://github.com/MarcosTsujino/CalculadoraTeoremaDePitagoras/blob/main/print-tela-calculadora.png">
 
 <h4>Desenvolvido por Marcos Tsujino</h4>
